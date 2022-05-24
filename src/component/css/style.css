@@ -1,0 +1,122 @@
+.start {
+    /* width: 1500px; */
+    /* width: 1230px; */
+}
+
+ .ab {
+    float: left;
+    margin-left: 50px;
+}
+
+.ac {
+    float: left;
+    margin-left: 40px;
+}
+
+.ad {
+    float: left;
+    margin-left: 40px;
+}
+
+ .ae {
+    float: left;
+    margin-left: 40px;
+} 
+
+ .set {
+    background-image: url(../../../public/images/cloud-bg1.png);
+    background-size: cover;
+    background-position: center;
+     margin-top: 500px; 
+} 
+
+ .as {
+    margin-left: 160px;
+    margin-top: 50px;
+    float: left;
+}
+
+.az {
+    float: left;
+    margin-top: 50px;
+    margin-left: 350px;
+} 
+
+.b {
+    background-color: antiquewhite;
+}
+
+.q {
+    background-color: (blueviolet);
+}
+
+.l {
+    float: left;
+}
+
+.k {
+    float: left;
+}
+
+.j {
+    float: left;
+}
+
+.h {
+    float: left;
+}
+
+.p {
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.t{
+    float:left;
+}
+.g{
+    float:left;
+}
+
+.wt{
+    width: 1350px;
+}
+.ma{
+    padding-left: 500px;
+}
+
+/* 
+section {
+    margin-top: 20px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card {
+    padding: 10px;
+}
+
+.card img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.carousel-item img {
+    width: 100%;
+    object-fit: cover;
+} */
+
+/* section,h2 {
+    border: 2px solid red;
+} */
+
+
+.card img{
+    height: 250px;
+    width: 100%;
+}
